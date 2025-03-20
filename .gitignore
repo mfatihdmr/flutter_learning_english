@@ -44,3 +44,5 @@ app.*.map.json
 
 
 learning-english-words-ee52c-firebase-adminsdk-atc5w-9d7f68f965.json
+lib/firebase_options.dart
+
