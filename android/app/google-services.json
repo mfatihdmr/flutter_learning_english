@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1024212468917",
+    "project_id": "learning-english-words-ee52c",
+    "storage_bucket": "learning-english-words-ee52c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024212468917:android:3b7cd39011a45f3767eafc",
+        "android_client_info": {
+          "package_name": "com.example.learning_eng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024212468917-tdcrcgghbdks8e38eae0ogu2crqjqc8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChid3w3H8hxUv-cc4WLsYGwy9jBIFJ9ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024212468917-tdcrcgghbdks8e38eae0ogu2crqjqc8h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024212468917-9sf24cnof3946vvs0sub535mu92f22kv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learningEng"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

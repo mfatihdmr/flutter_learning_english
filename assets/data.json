@@ -1,0 +1,3149 @@
+{
+  "words": [
+    
+        { "word": "apple", "definition": "elma", "level": "A1" },
+        { "word": "book", "definition": "kitap", "level": "A1" },
+        { "word": "cat", "definition": "kedi", "level": "A1" },
+        { "word": "dog", "definition": "köpek", "level": "A1" },
+        { "word": "egg", "definition": "yumurta", "level": "A1" },
+        { "word": "fish", "definition": "balık", "level": "A1" },
+        { "word": "girl", "definition": "kız", "level": "A1" },
+        { "word": "house", "definition": "ev", "level": "A1" },
+        { "word": "ice", "definition": "buz", "level": "A1" },
+        { "word": "juice", "definition": "meyve suyu", "level": "A1" },
+        { "word": "kite", "definition": "uçurtma", "level": "A1" },
+        { "word": "lamp", "definition": "lamba", "level": "A1" },
+        { "word": "mouse", "definition": "fare", "level": "A1" },
+        { "word": "boy", "definition": "erkek çocuk", "level": "A1" },
+        { "word": "car", "definition": "araba", "level": "A1" },
+        { "word": "tree", "definition": "ağaç", "level": "A1" },
+        { "word": "sun", "definition": "güneş", "level": "A1" },
+        { "word": "moon", "definition": "ay", "level": "A1" },
+        { "word": "star", "definition": "yıldız", "level": "A1" },
+        { "word": "water", "definition": "su", "level": "A1" },
+        { "word": "milk", "definition": "süt", "level": "A1" },
+        { "word": "bread", "definition": "ekmek", "level": "A1" },
+        { "word": "shoe", "definition": "ayakkabı", "level": "A1" },
+        { "word": "hand", "definition": "el", "level": "A1" },
+        { "word": "foot", "definition": "ayak", "level": "A1" },
+        { "word": "pen", "definition": "kalem", "level": "A1" },
+        { "word": "cup", "definition": "fincan", "level": "A1" },
+        { "word": "door", "definition": "kapı", "level": "A1" },
+        { "word": "window", "definition": "pencere", "level": "A1" },
+        { "word": "bag", "definition": "çanta", "level": "A1" },
+        { "word": "table", "definition": "masa", "level": "A1" },
+        { "word": "chair", "definition": "sandalye", "level": "A1" },
+        { "word": "bed", "definition": "yatak", "level": "A1" },
+        { "word": "flower", "definition": "çiçek", "level": "A1" },
+        { "word": "friend", "definition": "arkadaş", "level": "A1" },
+        { "word": "city", "definition": "şehir", "level": "A1" },
+        { "word": "school", "definition": "okul", "level": "A1" },
+        { "word": "family", "definition": "aile", "level": "A1" },
+        { "word": "food", "definition": "yiyecek", "level": "A1" },
+        { "word": "drink", "definition": "içecek", "level": "A1" },
+        { "word": "road", "definition": "yol", "level": "A1" },
+        { "word": "street", "definition": "sokak", "level": "A1" },
+        { "word": "ball", "definition": "top", "level": "A1" },
+        { "word": "shirt", "definition": "gömlek", "level": "A1" },
+        { "word": "pants", "definition": "pantolon", "level": "A1" },
+        { "word": "coat", "definition": "ceket", "level": "A1" },
+        { "word": "hat", "definition": "şapka", "level": "A1" },
+        { "word": "rain", "definition": "yağmur", "level": "A1" },
+        { "word": "snow", "definition": "kar", "level": "A1" },
+        { "word": "wind", "definition": "rüzgar", "level": "A1" },
+        { "word": "bird", "definition": "kuş", "level": "A1" },
+        { "word": "beach", "definition": "plaj", "level": "A1" },
+        { "word": "river", "definition": "nehir", "level": "A1" },
+        { "word": "mountain", "definition": "dağ", "level": "A1" },
+        { "word": "island", "definition": "ada", "level": "A1" },
+        { "word": "sea", "definition": "deniz", "level": "A1" },
+        { "word": "farm", "definition": "çiftlik", "level": "A1" },
+        { "word": "cow", "definition": "inek", "level": "A1" },
+        { "word": "sheep", "definition": "koyun", "level": "A1" },
+        { "word": "pig", "definition": "domuz", "level": "A1" },
+        { "word": "chicken", "definition": "tavuk", "level": "A1" },
+        { "word": "duck", "definition": "ördek", "level": "A1" },
+        { "word": "horse", "definition": "at", "level": "A1" },
+        { "word": "bus", "definition": "otobüs", "level": "A1" },
+        { "word": "train", "definition": "tren", "level": "A1" },
+        { "word": "bike", "definition": "bisiklet", "level": "A1" },
+        { "word": "boat", "definition": "tekne", "level": "A1" },
+        { "word": "ship", "definition": "gemi", "level": "A1" },
+        { "word": "park", "definition": "park", "level": "A1" },
+        { "word": "clock", "definition": "saat", "level": "A1" },
+        { "word": "watch", "definition": "kol saati", "level": "A1" },
+        { "word": "phone", "definition": "telefon", "level": "A1" },
+        { "word": "computer", "definition": "bilgisayar", "level": "A1" },
+        { "word": "paper", "definition": "kağıt", "level": "A1" },
+        { "word": "pencil", "definition": "kurşun kalem", "level": "A1" },
+        { "word": "eraser", "definition": "silgi", "level": "A1" },
+        { "word": "notebook", "definition": "defter", "level": "A1" },
+        { "word": "vegetable", "definition": "sebze", "level": "A1" },
+        { "word": "chocolate", "definition": "çikolata", "level": "A1" },
+        { "word": "candy", "definition": "şeker", "level": "A1" },
+        { "word": "cookie", "definition": "kurabiye", "level": "A1" },
+        { "word": "butter", "definition": "tereyağı", "level": "A1" },
+        { "word": "cheese", "definition": "peynir", "level": "A1" },
+        { "word": "soup", "definition": "çorba", "level": "A1" },
+        { "word": "rice", "definition": "pirinç", "level": "A1" },
+        { "word": "meat", "definition": "et", "level": "A1" },
+        { "word": "breakfast", "definition": "kahvaltı", "level": "A1" },
+        { "word": "lunch", "definition": "öğle yemeği", "level": "A1" },
+        { "word": "dinner", "definition": "akşam yemeği", "level": "A1" },
+        { "word": "banana", "definition": "muz", "level": "A1" },
+        { "word": "orange", "definition": "portakal", "level": "A1" },
+        { "word": "grape", "definition": "üzüm", "level": "A1" },
+        { "word": "lemon", "definition": "limon", "level": "A1" },
+        { "word": "strawberry", "definition": "çilek", "level": "A1" },
+        { "word": "pear", "definition": "armut", "level": "A1" },
+        { "word": "pineapple", "definition": "ananas", "level": "A1" },
+        { "word": "tomato", "definition": "domates", "level": "A1" },
+        { "word": "potato", "definition": "patates", "level": "A1" },
+        { "word": "watermelon", "definition": "karpuz", "level": "A1" },
+        { "word": "music", "definition": "müzik", "level": "A1" },      
+            { "word": "abroad", "definition": "yurtdışı", "level": "B1" },
+            { "word": "accident", "definition": "kaza", "level": "B1" },
+            { "word": "advertisement", "definition": "reklam", "level": "B1" },
+            { "word": "advice", "definition": "tavsiye", "level": "B1" },
+            { "word": "afford", "definition": "parası yetmek", "level": "B1" },
+            { "word": "agree", "definition": "katılmak, aynı fikirde olmak", "level": "B1" },
+            { "word": "ancient", "definition": "antik, çok eski", "level": "B1" },
+            { "word": "apartment", "definition": "apartman dairesi", "level": "B1" },
+            { "word": "argue", "definition": "tartışmak", "level": "B1" },
+            { "word": "arrange", "definition": "düzenlemek, ayarlamak", "level": "B1" },
+            { "word": "attempt", "definition": "denemek, girişimde bulunmak", "level": "B1" },
+            { "word": "average", "definition": "ortalama", "level": "B1" },
+            { "word": "behave", "definition": "davranmak", "level": "B1" },
+            { "word": "blame", "definition": "suçlamak", "level": "B1" },
+            { "word": "borrow", "definition": "ödünç almak", "level": "B1" },
+            { "word": "caution", "definition": "dikkat, ihtiyat", "level": "B1" },
+            { "word": "challenge", "definition": "meydan okumak, zorluk", "level": "B1" },
+            { "word": "charge", "definition": "ücretlendirmek veya şarj etmek", "level": "B1" },
+            { "word": "choice", "definition": "seçim", "level": "B1" },
+            { "word": "concern", "definition": "ilgilenmek, endişe", "level": "B1" },
+            { "word": "confirm", "definition": "onaylamak", "level": "B1" },
+            { "word": "connect", "definition": "bağlamak", "level": "B1" },
+            { "word": "contrast", "definition": "zıtlık, karşılaştırmak", "level": "B1" },
+            { "word": "convince", "definition": "ikna etmek", "level": "B1" },
+            { "word": "courage", "definition": "cesaret", "level": "B1" },
+            { "word": "delay", "definition": "geciktirmek, gecikme", "level": "B1" },
+            { "word": "depend", "definition": "bağlı olmak, güvenmek", "level": "B1" },
+            { "word": "describe", "definition": "tanımlamak, betimlemek", "level": "B1" },
+            { "word": "design", "definition": "tasarlamak", "level": "B1" },
+            { "word": "destroy", "definition": "yıkmak, yok etmek", "level": "B1" },
+            { "word": "develop", "definition": "geliştirmek, gelişmek", "level": "B1" },
+            { "word": "device", "definition": "cihaz", "level": "B1" },
+            { "word": "difference", "definition": "fark", "level": "B1" },
+            { "word": "discover", "definition": "keşfetmek", "level": "B1" },
+            { "word": "doubt", "definition": "şüphe etmek", "level": "B1" },
+            { "word": "effort", "definition": "çaba", "level": "B1" },
+            { "word": "element", "definition": "unsur, element", "level": "B1" },
+            { "word": "embarrass", "definition": "utandırmak", "level": "B1" },
+            { "word": "encourage", "definition": "cesaretlendirmek, teşvik etmek", "level": "B1" },
+            { "word": "energy", "definition": "enerji", "level": "B1" },
+            { "word": "environment", "definition": "çevre", "level": "B1" },
+            { "word": "estimate", "definition": "tahmin etmek, hesaplamak", "level": "B1" },
+            { "word": "event", "definition": "olay", "level": "B1" },
+            { "word": "experience", "definition": "deneyim, tecrübe", "level": "B1" },
+            { "word": "explore", "definition": "keşfetmek, araştırmak", "level": "B1" },
+            { "word": "extend", "definition": "uzatmak, genişletmek", "level": "B1" },
+            { "word": "familiar", "definition": "tanıdık, aşina", "level": "B1" },
+            { "word": "frequent", "definition": "sık, sık sık", "level": "B1" },
+            { "word": "function", "definition": "işlev, fonksiyon", "level": "B1" },
+            { "word": "future", "definition": "gelecek", "level": "B1" },
+            { "word": "generate", "definition": "üretmek, oluşturmak", "level": "B1" },
+            { "word": "goal", "definition": "hedef", "level": "B1" },
+            { "word": "habit", "definition": "alışkanlık", "level": "B1" },
+            { "word": "identify", "definition": "tanımlamak, belirlemek", "level": "B1" },
+            { "word": "ignore", "definition": "görmezden gelmek", "level": "B1" },
+            { "word": "imagine", "definition": "hayal etmek", "level": "B1" },
+            { "word": "improve", "definition": "geliştirmek", "level": "B1" },
+            { "word": "income", "definition": "gelir", "level": "B1" },
+            { "word": "increase", "definition": "artırmak, artış", "level": "B1" },
+            { "word": "individual", "definition": "birey", "level": "B1" },
+            { "word": "influence", "definition": "etki, etkilemek", "level": "B1" },
+            { "word": "inform", "definition": "bilgilendirmek", "level": "B1" },
+            { "word": "intend", "definition": "niyet etmek, amaçlamak", "level": "B1" },
+            { "word": "introduce", "definition": "tanıtmak, sunmak", "level": "B1" },
+            { "word": "invest", "definition": "yatırım yapmak", "level": "B1" },
+            { "word": "involve", "definition": "içermek, karışmak", "level": "B1" },
+            { "word": "issue", "definition": "sorun, konu", "level": "B1" },
+            { "word": "join", "definition": "katılmak, birleştirmek", "level": "B1" },
+            { "word": "knowledge", "definition": "bilgi", "level": "B1" },
+            { "word": "law", "definition": "hukuk, yasa", "level": "B1" },
+            { "word": "leader", "definition": "lider, önder", "level": "B1" },
+            { "word": "limit", "definition": "sınır, sınırlamak", "level": "B1" },
+            { "word": "manage", "definition": "yönetmek, idare etmek", "level": "B1" },
+            { "word": "measure", "definition": "ölçmek, ölçü", "level": "B1" },
+            { "word": "method", "definition": "yöntem", "level": "B1" },
+            { "word": "mission", "definition": "görev, misyon", "level": "B1" },
+            { "word": "modern", "definition": "modern, çağdaş", "level": "B1" },
+            { "word": "nation", "definition": "ulus, millet", "level": "B1" },
+            { "word": "notice", "definition": "fark etmek, bildiri", "level": "B1" },
+            { "word": "object", "definition": "nesne, itiraz etmek", "level": "B1" },
+            { "word": "observe", "definition": "gözlemlemek", "level": "B1" },
+            { "word": "offer", "definition": "teklif etmek, sunmak", "level": "B1" },
+            { "word": "opinion", "definition": "görüş, fikir", "level": "B1" },
+            { "word": "opportunity", "definition": "fırsat", "level": "B1" },
+            { "word": "order", "definition": "sipariş, düzenlemek", "level": "B1" },
+            { "word": "original", "definition": "orijinal, özgün", "level": "B1" },
+            { "word": "participate", "definition": "katılmak", "level": "B1" },
+            { "word": "perform", "definition": "icra etmek, sergilemek", "level": "B1" },
+            { "word": "permit", "definition": "izin vermek", "level": "B1" },
+            { "word": "positive", "definition": "olumlu", "level": "B1" },
+            { "word": "possibility", "definition": "olasılık", "level": "B1" },
+            { "word": "prefer", "definition": "tercih etmek", "level": "B1" },
+            { "word": "prepare", "definition": "hazırlamak", "level": "B1" },
+            { "word": "prevent", "definition": "önlemek", "level": "B1" },
+            { "word": "private", "definition": "özel", "level": "B1" },
+            { "word": "professional", "definition": "profesyonel", "level": "B1" },
+            { "word": "promise", "definition": "söz vermek, vaat etmek", "level": "B1" },
+            { "word": "protect", "definition": "korumak", "level": "B1" },
+            { "word": "provide", "definition": "sağlamak, temin etmek", "level": "B1" },
+            { "word": "publish", "definition": "yayınlamak", "level": "B1" },          
+          { "word": "accomplish", "definition": "başarmak", "level": "B1" },
+          { "word": "beneficial", "definition": "faydalı", "level": "B1" },
+          { "word": "challenge", "definition": "meydan okuma", "level": "B1" },
+          { "word": "decision", "definition": "karar", "level": "B1" },
+          { "word": "enthusiastic", "definition": "coşkulu", "level": "B1" },
+          { "word": "frequently", "definition": "sık sık", "level": "B1" },
+          { "word": "generation", "definition": "nesil", "level": "B1" },
+          { "word": "happiness", "definition": "mutluluk", "level": "B1" },
+          { "word": "independent", "definition": "bağımsız", "level": "B1" },
+          { "word": "knowledgeable", "definition": "bilgili", "level": "B1" },
+          { "word": "landscape", "definition": "manzara", "level": "B1" },
+          { "word": "motivation", "definition": "motivasyon", "level": "B1" },
+          { "word": "negotiate", "definition": "müzakere etmek", "level": "B1" },
+          { "word": "opportunity", "definition": "fırsat", "level": "B1" },
+          { "word": "participate", "definition": "katılmak", "level": "B1" },
+          { "word": "qualification", "definition": "nitelik", "level": "B1" },
+          { "word": "reliable", "definition": "güvenilir", "level": "B1" },
+          { "word": "satisfaction", "definition": "memnuniyet", "level": "B1" },
+          { "word": "technology", "definition": "teknoloji", "level": "B1" },
+          { "word": "understandable", "definition": "anlaşılabilir", "level": "B1" },
+          { "word": "variety", "definition": "çeşitlilik", "level": "B1" },
+          { "word": "wealthy", "definition": "zengin", "level": "B1" },
+          { "word": "xenophobia", "definition": "yabancı düşmanlığı", "level": "B1" },
+          { "word": "youthful", "definition": "genç", "level": "B1" },
+          { "word": "zealous", "definition": "gayretli", "level": "B1" },
+          { "word": "achievement", "definition": "başarı", "level": "B1" },
+          { "word": "background", "definition": "geçmiş", "level": "B1" },
+          { "word": "confidence", "definition": "güven", "level": "B1" },
+          { "word": "discussion", "definition": "tartışma", "level": "B1" },
+          { "word": "efficient", "definition": "verimli", "level": "B1" },
+          { "word": "fascinating", "definition": "büyüleyici", "level": "B1" },
+          { "word": "growth", "definition": "büyüme", "level": "B1" },
+          { "word": "heritage", "definition": "miras", "level": "B1" },
+          { "word": "improvement", "definition": "gelişim", "level": "B1" },
+          { "word": "justice", "definition": "adalet", "level": "B1" },
+          { "word": "leadership", "definition": "liderlik", "level": "B1" },
+          { "word": "memorable", "definition": "unutulmaz", "level": "B1" },
+          { "word": "neighborhood", "definition": "mahalle", "level": "B1" },
+          { "word": "organization", "definition": "organizasyon", "level": "B1" },
+          { "word": "performance", "definition": "performans", "level": "B1" },
+          { "word": "remarkable", "definition": "dikkate değer", "level": "B1" },
+          { "word": "significant", "definition": "önemli", "level": "B1" },
+          { "word": "tradition", "definition": "gelenek", "level": "B1" },
+          { "word": "unique", "definition": "eşsiz", "level": "B1" },
+          { "word": "volunteer", "definition": "gönüllü", "level": "B1" },
+          { "word": "whisper", "definition": "fısıldamak", "level": "B1" },
+          { "word": "yesterday", "definition": "dün", "level": "B1" },
+          { "word": "zoology", "definition": "zooloji", "level": "B1" },
+          { "word": "ambition", "definition": "hırs", "level": "B1" },
+          { "word": "benefit", "definition": "fayda", "level": "B1" },
+          { "word": "careful", "definition": "dikkatli", "level": "B1" },
+          { "word": "delicious", "definition": "lezzetli", "level": "B1" },
+          { "word": "environment", "definition": "çevre", "level": "B1" },
+          { "word": "friendly", "definition": "arkadaş canlısı", "level": "B1" },
+          { "word": "generous", "definition": "cömert", "level": "B1" },
+          { "word": "honesty", "definition": "dürüstlük", "level": "B1" },
+          { "word": "intelligent", "definition": "zeki", "level": "B1" },
+          { "word": "journey", "definition": "yolculuk", "level": "B1" },
+          { "word": "knowledgeable", "definition": "bilgili", "level": "B1" },
+          { "word": "landmark", "definition": "kent simgesi", "level": "B1" },
+          { "word": "meaningful", "definition": "anlamlı", "level": "B1" },
+          { "word": "negotiate", "definition": "müzakere etmek", "level": "B1" },
+          { "word": "opportunity", "definition": "fırsat", "level": "B1" },
+          { "word": "practical", "definition": "pratik", "level": "B1" },
+          { "word": "qualification", "definition": "nitelik", "level": "B1" },
+          { "word": "resource", "definition": "kaynak", "level": "B1" },
+          { "word": "success", "definition": "başarı", "level": "B1" },
+          { "word": "trustworthy", "definition": "güvenilir", "level": "B1" },
+          { "word": "understanding", "definition": "anlayış", "level": "B1" },
+          { "word": "valuable", "definition": "değerli", "level": "B1" },
+          { "word": "wonderful", "definition": "harika", "level": "B1" },
+          { "word": "youth", "definition": "gençlik", "level": "B1" },
+          { "word": "zealous", "definition": "gayretli", "level": "B1" },
+          { "word": "achievement", "definition": "başarı", "level": "B1" },
+          { "word": "background", "definition": "geçmiş", "level": "B1" },
+          { "word": "confident", "definition": "kendine güvenen", "level": "B1" },
+          { "word": "discussion", "definition": "tartışma", "level": "B1" },
+          { "word": "efficient", "definition": "verimli", "level": "B1" },
+          { "word": "fascinating", "definition": "büyüleyici", "level": "B1" },
+          { "word": "growth", "definition": "büyüme", "level": "B1" },
+          { "word": "heritage", "definition": "miras", "level": "B1" }, 
+            { "word": "accomplish", "definition": "başarmak", "level": "B1" },
+            { "word": "beneficial", "definition": "faydalı", "level": "B1" },
+            { "word": "challenge", "definition": "meydan okuma", "level": "B1" },
+            { "word": "decision", "definition": "karar", "level": "B1" },
+            { "word": "enthusiastic", "definition": "coşkulu", "level": "B1" },
+            { "word": "frequently", "definition": "sık sık", "level": "B1" },
+            { "word": "generation", "definition": "nesil", "level": "B1" },
+            { "word": "happiness", "definition": "mutluluk", "level": "B1" },
+            { "word": "independent", "definition": "bağımsız", "level": "B1" },
+            { "word": "knowledgeable", "definition": "bilgili", "level": "B1" },
+            { "word": "landscape", "definition": "manzara", "level": "B1" },
+            { "word": "motivation", "definition": "motivasyon", "level": "B1" },
+            { "word": "negotiate", "definition": "müzakere etmek", "level": "B1" },
+            { "word": "opportunity", "definition": "fırsat", "level": "B1" },
+            { "word": "participate", "definition": "katılmak", "level": "B1" },
+            { "word": "qualification", "definition": "nitelik", "level": "B1" },
+            { "word": "reliable", "definition": "güvenilir", "level": "B1" },
+            { "word": "satisfaction", "definition": "memnuniyet", "level": "B1" },
+            { "word": "technology", "definition": "teknoloji", "level": "B1" },
+            { "word": "understandable", "definition": "anlaşılabilir", "level": "B1" },
+            { "word": "variety", "definition": "çeşitlilik", "level": "B1" },
+            { "word": "wealthy", "definition": "zengin", "level": "B1" },
+            { "word": "xenophobia", "definition": "yabancı düşmanlığı", "level": "B1" },
+            { "word": "youthful", "definition": "genç", "level": "B1" },
+            { "word": "zealous", "definition": "gayretli", "level": "B1" },
+            { "word": "accomplishment", "definition": "başarı", "level": "B1" },
+            { "word": "adaptation", "definition": "uyum", "level": "B1" },
+            { "word": "authentic", "definition": "orijinal", "level": "B1" },
+            { "word": "benefit", "definition": "fayda", "level": "B1" },
+            { "word": "careful", "definition": "dikkatli", "level": "B1" },
+            { "word": "delicious", "definition": "lezzetli", "level": "B1" },
+            { "word": "efficient", "definition": "etkili", "level": "B1" },
+            { "word": "freedom", "definition": "özgürlük", "level": "B1" },
+            { "word": "generous", "definition": "cömert", "level": "B1" },
+            { "word": "harmony", "definition": "uyum", "level": "B1" },
+            { "word": "illustrate", "definition": "açıklamak", "level": "B1" },
+            { "word": "jealous", "definition": "kıskanç", "level": "B1" },
+            { "word": "knowledge", "definition": "bilgi", "level": "B1" },
+            { "word": "luxury", "definition": "lüks", "level": "B1" },
+            { "word": "moderate", "definition": "orta", "level": "B1" },
+            { "word": "novel", "definition": "roman", "level": "B1" },
+            { "word": "option", "definition": "seçenek", "level": "B1" },
+            { "word": "progress", "definition": "ilerleme", "level": "B1" },
+            { "word": "reliable", "definition": "güvenilir", "level": "B1" },
+            { "word": "strategy", "definition": "strateji", "level": "B1" },
+            { "word": "tolerance", "definition": "hoşgörü", "level": "B1" },
+            { "word": "unusual", "definition": "sıradışı", "level": "B1" },
+            { "word": "vivid", "definition": "canlı", "level": "B1" },
+            { "word": "witness", "definition": "tanık", "level": "B1" },
+            { "word": "yield", "definition": "getiri", "level": "B1" },
+            { "word": "zeal", "definition": "gayret", "level": "B1" },
+            { "word": "adapt", "definition": "uyum sağlamak", "level": "B1" },
+            { "word": "barrier", "definition": "engel", "level": "B1" },
+            { "word": "collaborate", "definition": "işbirliği yapmak", "level": "B1" },
+            { "word": "develop", "definition": "geliştirmek", "level": "B1" },
+            { "word": "expand", "definition": "genişletmek", "level": "B1" },
+            { "word": "fashion", "definition": "moda", "level": "B1" },
+            { "word": "genuine", "definition": "gerçek", "level": "B1" },
+            { "word": "horizon", "definition": "ufuk", "level": "B1" },
+            { "word": "initiative", "definition": "inisiatif", "level": "B1" },
+            { "word": "justify", "definition": "haklı çıkarmak", "level": "B1" },
+            { "word": "keystone", "definition": "anahtar taş", "level": "B1" },
+            { "word": "logical", "definition": "mantıklı", "level": "B1" },
+            { "word": "motivate", "definition": "motive etmek", "level": "B1" },
+            { "word": "nurture", "definition": "beslemek", "level": "B1" },
+            { "word": "optimize", "definition": "optimize etmek", "level": "B1" },
+            { "word": "practical", "definition": "pratik", "level": "B1" },
+            { "word": "qualify", "definition": "nitelikli olmak", "level": "B1" },
+            { "word": "reassure", "definition": "rahatlatmak", "level": "B1" },
+            { "word": "sustainable", "definition": "sürdürülebilir", "level": "B1" },
+            { "word": "transform", "definition": "dönüştürmek", "level": "B1" },
+            { "word": "unique", "definition": "eşsiz", "level": "B1" },
+            { "word": "vivid", "definition": "canlı", "level": "B1" },
+            { "word": "wholesome", "definition": "sağlıklı", "level": "B1" },             
+                { "word": "analyze", "definition": "analiz etmek", "level": "B2" },
+                { "word": "approach", "definition": "yaklaşmak, yaklaşım", "level": "B2" },
+                { "word": "assess", "definition": "değerlendirmek", "level": "B2" },
+                { "word": "assume", "definition": "varsaymak", "level": "B2" },
+                { "word": "authority", "definition": "yetki, otorite", "level": "B2" },
+                { "word": "benefit", "definition": "fayda, yarar", "level": "B2" },
+                { "word": "concept", "definition": "kavram", "level": "B2" },
+                { "word": "consistent", "definition": "tutarlı", "level": "B2" },
+                { "word": "context", "definition": "bağlam", "level": "B2" },
+                { "word": "create", "definition": "oluşturmak, yaratmak", "level": "B2" },
+                { "word": "data", "definition": "veri", "level": "B2" },
+                { "word": "debate", "definition": "tartışma", "level": "B2" },
+                { "word": "derive", "definition": "türetmek, elde etmek", "level": "B2" },
+                { "word": "distribute", "definition": "dağıtmak", "level": "B2" },
+                { "word": "economic", "definition": "ekonomik", "level": "B2" },
+                { "word": "environment", "definition": "çevre", "level": "B2" },
+                { "word": "establish", "definition": "kurmak, oluşturmak", "level": "B2" },
+                { "word": "evident", "definition": "açık, belirgin", "level": "B2" },
+                { "word": "factor", "definition": "faktör, etken", "level": "B2" },
+                { "word": "feature", "definition": "özellik", "level": "B2" },
+                { "word": "function", "definition": "işlev", "level": "B2" },
+                { "word": "identify", "definition": "tanımlamak, belirlemek", "level": "B2" },
+                { "word": "impact", "definition": "etki", "level": "B2" },
+                { "word": "income", "definition": "gelir", "level": "B2" },
+                { "word": "indicate", "definition": "göstermek", "level": "B2" },
+                { "word": "individual", "definition": "birey", "level": "B2" },
+                { "word": "interpret", "definition": "yorumlamak", "level": "B2" },
+                { "word": "involve", "definition": "içermek", "level": "B2" },
+                { "word": "issue", "definition": "konu, sorun", "level": "B2" },
+                { "word": "labor", "definition": "emek, çalışma", "level": "B2" },
+                { "word": "legal", "definition": "yasal", "level": "B2" },
+                { "word": "legislate", "definition": "yasalaştırmak", "level": "B2" },
+                { "word": "major", "definition": "ana, önemli", "level": "B2" },
+                { "word": "method", "definition": "yöntem", "level": "B2" },
+                { "word": "occur", "definition": "meydana gelmek", "level": "B2" },
+                { "word": "period", "definition": "dönem", "level": "B2" },
+                { "word": "policy", "definition": "politika", "level": "B2" },
+                { "word": "principle", "definition": "ilke, prensip", "level": "B2" },
+                { "word": "proceed", "definition": "devam etmek, ilerlemek", "level": "B2" },
+                { "word": "process", "definition": "süreç", "level": "B2" },
+                { "word": "require", "definition": "gerektirmek", "level": "B2" },
+                { "word": "research", "definition": "araştırma", "level": "B2" },
+                { "word": "response", "definition": "yanıt, tepki", "level": "B2" },
+                { "word": "role", "definition": "rol, görev", "level": "B2" },
+                { "word": "sector", "definition": "sektör", "level": "B2" },
+                { "word": "significant", "definition": "önemli, anlamlı", "level": "B2" },
+                { "word": "similar", "definition": "benzer", "level": "B2" },
+                { "word": "source", "definition": "kaynak", "level": "B2" },
+                { "word": "structure", "definition": "yapı, organizasyon", "level": "B2" },
+                { "word": "theory", "definition": "teori, kuram", "level": "B2" },
+                { "word": "vary", "definition": "değişmek, farklılık göstermek", "level": "B2" },
+                { "word": "achieve", "definition": "başarmak", "level": "B2" },
+                { "word": "acquire", "definition": "edinmek", "level": "B2" },
+                { "word": "adapt", "definition": "uyum sağlamak", "level": "B2" },
+                { "word": "administer", "definition": "yönetmek, uygulamak", "level": "B2" },
+                { "word": "affect", "definition": "etkilemek", "level": "B2" },
+                { "word": "allocate", "definition": "tahsis etmek", "level": "B2" },
+                { "word": "amend", "definition": "değiştirmek, düzeltmek", "level": "B2" },
+                { "word": "anticipate", "definition": "beklemek, ummak", "level": "B2" },
+                { "word": "attribute", "definition": "bağlamak, atfetmek", "level": "B2" },
+                { "word": "aware", "definition": "farkında olmak", "level": "B2" },
+                { "word": "capacity", "definition": "kapasite, yetenek", "level": "B2" },
+                { "word": "challenge", "definition": "meydan okumak", "level": "B2" },
+                { "word": "comment", "definition": "yorum yapmak", "level": "B2" },
+                { "word": "commission", "definition": "komisyon, görevlendirmek", "level": "B2" },
+                { "word": "commit", "definition": "taahhüt etmek, adamak", "level": "B2" },
+                { "word": "community", "definition": "toplum, topluluk", "level": "B2" },
+                { "word": "complex", "definition": "karmaşık", "level": "B2" },
+                { "word": "compute", "definition": "hesaplamak", "level": "B2" },
+                { "word": "conclude", "definition": "sonuca varmak, sonuçlandırmak", "level": "B2" },
+                { "word": "conduct", "definition": "yürütmek, davranmak", "level": "B2" },
+                { "word": "confer", "definition": "tartışmak, vermek", "level": "B2" },
+                { "word": "confirm", "definition": "doğrulamak, teyit etmek", "level": "B2" },
+                { "word": "consent", "definition": "rıza göstermek, onaylamak", "level": "B2" },
+                { "word": "considerable", "definition": "önemli, kayda değer", "level": "B2" },
+                { "word": "constant", "definition": "sürekli, sabit", "level": "B2" },
+                { "word": "consult", "definition": "danışmak", "level": "B2" },
+                { "word": "consume", "definition": "tüketmek", "level": "B2" },
+                { "word": "contact", "definition": "iletişim kurmak", "level": "B2" },
+                { "word": "contribute", "definition": "katkıda bulunmak", "level": "B2" },
+                { "word": "convince", "definition": "ikna etmek", "level": "B2" },
+                { "word": "core", "definition": "öz, çekirdek", "level": "B2" },
+                { "word": "cycle", "definition": "döngü", "level": "B2" },
+                { "word": "distinguish", "definition": "ayırt etmek, fark etmek", "level": "B2" },
+                { "word": "diverse", "definition": "çeşitli", "level": "B2" },
+                { "word": "domain", "definition": "alan, bölge", "level": "B2" },
+                { "word": "dynamic", "definition": "dinamik", "level": "B2" },
+                { "word": "evaluate", "definition": "değerlendirmek", "level": "B2" },
+                { "word": "exhibit", "definition": "sergilemek", "level": "B2" },
+                { "word": "expand", "definition": "genişletmek", "level": "B2" },
+                { "word": "exploit", "definition": "sömürmek", "level": "B2" },
+                { "word": "exposure", "definition": "maruz kalma", "level": "B2" },
+                { "word": "external", "definition": "dışsal", "level": "B2" },
+                { "word": "facilitate", "definition": "kolaylaştırmak", "level": "B2" },
+                { "word": "fluctuate", "definition": "dalgalanmak", "level": "B2" },
+                { "word": "fund", "definition": "fon, finanse etmek", "level": "B2" },
+                { "word": "framework", "definition": "çerçeve", "level": "B2" },
+                { "word": "highlight", "definition": "vurgulamak", "level": "B2" },
+                { "word": "hypothesis", "definition": "hipotez", "level": "B2" },
+                { "word": "illustrate", "definition": "örneklendirmek, açıklamak", "level": "B2" }              
+  ],
+    "quiz_words": [
+      {
+        "question": "What is the English word for 'elma'?",
+        "correct_answer": "apple",
+        "incorrect_answers": ["banana", "orange", "grape"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'house'?",
+        "correct_answer": "ev",
+        "incorrect_answers": ["araba", "kitap", "masa"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a fruit?",
+        "correct_answer": "apple",
+        "incorrect_answers": ["car", "book", "table"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'kitap'?",
+        "correct_answer": "book",
+        "incorrect_answers": ["pen", "table", "apple"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'school'?",
+        "correct_answer": "okul",
+        "incorrect_answers": ["ev", "araba", "masa"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is an animal?",
+        "correct_answer": "dog",
+        "incorrect_answers": ["car", "book", "apple"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'kalem'?",
+        "correct_answer": "pen",
+        "incorrect_answers": ["book", "table", "apple"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'car'?",
+        "correct_answer": "araba",
+        "incorrect_answers": ["ev", "okul", "masa"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a color?",
+        "correct_answer": "blue",
+        "incorrect_answers": ["dog", "apple", "book"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'masa'?",
+        "correct_answer": "table",
+        "incorrect_answers": ["pen", "car", "apple"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'şemsiye'?",
+        "correct_answer": "umbrella",
+        "incorrect_answers": ["hat", "scarf", "glove"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'chair'?",
+        "correct_answer": "sandalye",
+        "incorrect_answers": ["masa", "kitap", "kalem"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a vegetable?",
+        "correct_answer": "carrot",
+        "incorrect_answers": ["apple", "banana", "grape"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'araba'?",
+        "correct_answer": "car",
+        "incorrect_answers": ["bus", "bike", "train"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'book'?",
+        "correct_answer": "kitap",
+        "incorrect_answers": ["kalem", "defter", "silgi"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a pet?",
+        "correct_answer": "cat",
+        "incorrect_answers": ["fish", "bird", "lion"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'güneş'?",
+        "correct_answer": "sun",
+        "incorrect_answers": ["moon", "star", "sky"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'dog'?",
+        "correct_answer": "köpek",
+        "incorrect_answers": ["kedi", "kuş", "balık"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a clothing item?",
+        "correct_answer": "shirt",
+        "incorrect_answers": ["table", "pen", "apple"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'su'?",
+        "correct_answer": "water",
+        "incorrect_answers": ["juice", "milk", "tea"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'computer'?",
+        "correct_answer": "bilgisayar",
+        "incorrect_answers": ["telefon", "tablet", "televizyon"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a shape?",
+        "correct_answer": "circle",
+        "incorrect_answers": ["tree", "car", "house"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'deniz'?",
+        "correct_answer": "sea",
+        "incorrect_answers": ["lake", "river", "ocean"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'teacher'?",
+        "correct_answer": "öğretmen",
+        "incorrect_answers": ["doktor", "mühendis", "avukat"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a body part?",
+        "correct_answer": "arm",
+        "incorrect_answers": ["car", "apple", "shirt"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'yemek'?",
+        "correct_answer": "food",
+        "incorrect_answers": ["drink", "dessert", "snack"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'window'?",
+        "correct_answer": "pencere",
+        "incorrect_answers": ["kapı", "duvar", "çatı"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a vehicle?",
+        "correct_answer": "bus",
+        "incorrect_answers": ["apple", "book", "table"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'şehir'?",
+        "correct_answer": "city",
+        "incorrect_answers": ["village", "town", "country"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'rain'?",
+        "correct_answer": "yağmur",
+        "incorrect_answers": ["kar", "rüzgar", "güneş"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a drink?",
+        "correct_answer": "tea",
+        "incorrect_answers": ["bread", "rice", "soup"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'kuş'?",
+        "correct_answer": "bird",
+        "incorrect_answers": ["cat", "dog", "fish"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'sun'?",
+        "correct_answer": "güneş",
+        "incorrect_answers": ["ay", "yıldız", "bulut"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a job?",
+        "correct_answer": "doctor",
+        "incorrect_answers": ["apple", "table", "car"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'yatak'?",
+        "correct_answer": "bed",
+        "incorrect_answers": ["sofa", "chair", "table"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'garden'?",
+        "correct_answer": "bahçe",
+        "incorrect_answers": ["ev", "araba", "okul"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is an electronic device?",
+        "correct_answer": "phone",
+        "incorrect_answers": ["apple", "book", "shirt"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'hava'?",
+        "correct_answer": "air",
+        "incorrect_answers": ["water", "fire", "earth"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'train'?",
+        "correct_answer": "tren",
+        "incorrect_answers": ["uçak", "otobüs", "araba"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a sport?",
+        "correct_answer": "soccer",
+        "incorrect_answers": ["apple", "book", "shirt"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'süt'?",
+        "correct_answer": "milk",
+        "incorrect_answers": ["water", "juice", "tea"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'tree'?",
+        "correct_answer": "ağaç",
+        "incorrect_answers": ["çimen", "çiçek", "yaprak"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a holiday?",
+        "correct_answer": "Christmas",
+        "incorrect_answers": ["Monday", "January", "Winter"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'kalp'?",
+        "correct_answer": "heart",
+        "incorrect_answers": ["liver", "lung", "brain"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'moon'?",
+        "correct_answer": "ay",
+        "incorrect_answers": ["güneş", "yıldız", "bulut"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a country?",
+        "correct_answer": "Turkey",
+        "incorrect_answers": ["Istanbul", "Asia", "Earth"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'otobüs'?",
+        "correct_answer": "bus",
+        "incorrect_answers": ["car", "bike", "train"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'flower'?",
+        "correct_answer": "çiçek",
+        "incorrect_answers": ["ağaç", "yaprak", "çimen"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a season?",
+        "correct_answer": "Winter",
+        "incorrect_answers": ["January", "Monday", "Holiday"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'pencere'?",
+        "correct_answer": "window",
+        "incorrect_answers": ["door", "wall", "roof"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'friend'?",
+        "correct_answer": "arkadaş",
+        "incorrect_answers": ["düşman", "aile", "komşu"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a family member?",
+        "correct_answer": "mother",
+        "incorrect_answers": ["friend", "teacher", "doctor"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'masa'?",
+        "correct_answer": "table",
+        "incorrect_answers": ["pen", "car", "apple"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'water'?",
+        "correct_answer": "su",
+        "incorrect_answers": ["çay", "kahve", "meyve suyu"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a building?",
+        "correct_answer": "hospital",
+        "incorrect_answers": ["apple", "car", "book"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'şehir'?",
+        "correct_answer": "city",
+        "incorrect_answers": ["village", "town", "country"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'apple'?",
+        "correct_answer": "elma",
+        "incorrect_answers": ["muz", "portakal", "üzüm"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a planet?",
+        "correct_answer": "Mars",
+        "incorrect_answers": ["Moon", "Sun", "Star"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'kalem'?",
+        "correct_answer": "pen",
+        "incorrect_answers": ["book", "table", "apple"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'dog'?",
+        "correct_answer": "köpek",
+        "incorrect_answers": ["kedi", "kuş", "balık"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a job?",
+        "correct_answer": "teacher",
+        "incorrect_answers": ["apple", "table", "car"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'deniz'?",
+        "correct_answer": "sea",
+        "incorrect_answers": ["lake", "river", "ocean"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'doctor'?",
+        "correct_answer": "doktor",
+        "incorrect_answers": ["mühendis", "öğretmen", "avukat"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a drink?",
+        "correct_answer": "juice",
+        "incorrect_answers": ["bread", "rice", "soup"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'şehir'?",
+        "correct_answer": "city",
+        "incorrect_answers": ["village", "town", "country"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'school'?",
+        "correct_answer": "okul",
+        "incorrect_answers": ["ev", "araba", "masa"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is an animal?",
+        "correct_answer": "dog",
+        "incorrect_answers": ["car", "book", "apple"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'kitap'?",
+        "correct_answer": "book",
+        "incorrect_answers": ["pen", "table", "apple"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'car'?",
+        "correct_answer": "araba",
+        "incorrect_answers": ["ev", "okul", "masa"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a color?",
+        "correct_answer": "blue",
+        "incorrect_answers": ["dog", "apple", "book"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'masa'?",
+        "correct_answer": "table",
+        "incorrect_answers": ["pen", "car", "apple"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'şehir'?",
+        "correct_answer": "city",
+        "incorrect_answers": ["village", "town", "country"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'rain'?",
+        "correct_answer": "yağmur",
+        "incorrect_answers": ["kar", "rüzgar", "güneş"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a drink?",
+        "correct_answer": "tea",
+        "incorrect_answers": ["bread", "rice", "soup"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'kuş'?",
+        "correct_answer": "bird",
+        "incorrect_answers": ["cat", "dog", "fish"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'sun'?",
+        "correct_answer": "güneş",
+        "incorrect_answers": ["ay", "yıldız", "bulut"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a job?",
+        "correct_answer": "doctor",
+        "incorrect_answers": ["apple", "table", "car"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'yatak'?",
+        "correct_answer": "bed",
+        "incorrect_answers": ["sofa", "chair", "table"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'garden'?",
+        "correct_answer": "bahçe",
+        "incorrect_answers": ["ev", "araba", "okul"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is an electronic device?",
+        "correct_answer": "phone",
+        "incorrect_answers": ["apple", "book", "shirt"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'hava'?",
+        "correct_answer": "air",
+        "incorrect_answers": ["water", "fire", "earth"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'train'?",
+        "correct_answer": "tren",
+        "incorrect_answers": ["uçak", "otobüs", "araba"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a sport?",
+        "correct_answer": "soccer",
+        "incorrect_answers": ["apple", "book", "shirt"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'süt'?",
+        "correct_answer": "milk",
+        "incorrect_answers": ["water", "juice", "tea"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'tree'?",
+        "correct_answer": "ağaç",
+        "incorrect_answers": ["çimen", "çiçek", "yaprak"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a holiday?",
+        "correct_answer": "Christmas",
+        "incorrect_answers": ["Monday", "January", "Winter"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'kalp'?",
+        "correct_answer": "heart",
+        "incorrect_answers": ["liver", "lung", "brain"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'moon'?",
+        "correct_answer": "ay",
+        "incorrect_answers": ["güneş", "yıldız", "bulut"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a country?",
+        "correct_answer": "Turkey",
+        "incorrect_answers": ["Istanbul", "Asia", "Earth"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the English word for 'otobüs'?",
+        "correct_answer": "bus",
+        "incorrect_answers": ["car", "bike", "train"],
+        "level": "A1"
+      },
+      {
+        "question": "What is the Turkish translation for 'flower'?",
+        "correct_answer": "çiçek",
+        "incorrect_answers": ["ağaç", "yaprak", "çimen"],
+        "level": "A1"
+      },
+      {
+        "question": "Which one is a season?",
+        "correct_answer": "Winter",
+        "incorrect_answers": ["January", "Monday", "Holiday"],
+        "level": "A1"
+      },
+      
+        {
+            "question": "What is the English word for 'kitaplık'?",
+            "correct_answer": "bookcase",
+            "incorrect_answers": ["bookshelf", "desk", "table"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a method of transportation?",
+            "correct_answer": "bicycle",
+            "incorrect_answers": ["television", "keyboard", "lamp"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'library'?",
+            "correct_answer": "kütüphane",
+            "incorrect_answers": ["okul", "sınıf", "laboratuvar"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a fruit you can eat?",
+            "correct_answer": "strawberry",
+            "incorrect_answers": ["carrot", "bread", "cheese"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'mutfak'?",
+            "correct_answer": "kitchen",
+            "incorrect_answers": ["bathroom", "bedroom", "living room"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'market'?",
+            "correct_answer": "pazar",
+            "incorrect_answers": ["mağaza", "dükkan", "kafe"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of animal you can see in the zoo?",
+            "correct_answer": "giraffe",
+            "incorrect_answers": ["fish", "pigeon", "dog"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'saat'?",
+            "correct_answer": "clock",
+            "incorrect_answers": ["calendar", "watch", "phone"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'doctor'?",
+            "correct_answer": "doktor",
+            "incorrect_answers": ["hemşire", "öğretmen", "eğitmen"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a popular sport?",
+            "correct_answer": "soccer",
+            "incorrect_answers": ["drawing", "cooking", "reading"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'sınıf'?",
+            "correct_answer": "classroom",
+            "incorrect_answers": ["library", "office", "laboratory"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'hospital'?",
+            "correct_answer": "hastane",
+            "incorrect_answers": ["okul", "iş yeri", "kütüphane"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of book?",
+            "correct_answer": "novel",
+            "incorrect_answers": ["dictionary", "calculator", "pen"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'araba'?",
+            "correct_answer": "car",
+            "incorrect_answers": ["bus", "plane", "boat"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'cake'?",
+            "correct_answer": "kek",
+            "incorrect_answers": ["çikolata", "börek", "kurabiye"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of clothing?",
+            "correct_answer": "jacket",
+            "incorrect_answers": ["hat", "watch", "ring"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'çarşaf'?",
+            "correct_answer": "sheet",
+            "incorrect_answers": ["pillow", "blanket", "towel"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'kitchen'?",
+            "correct_answer": "mutfak",
+            "incorrect_answers": ["banyo", "oturma odası", "yatak odası"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a place where you can buy food?",
+            "correct_answer": "grocery store",
+            "incorrect_answers": ["gym", "office", "library"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'yatak odası'?",
+            "correct_answer": "bedroom",
+            "incorrect_answers": ["kitchen", "living room", "bathroom"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'ev'?",
+            "correct_answer": "house",
+            "incorrect_answers": ["car", "tree", "book"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a fruit?",
+            "correct_answer": "orange",
+            "incorrect_answers": ["table", "shoe", "shirt"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'bed'?",
+            "correct_answer": "yatak",
+            "incorrect_answers": ["masa", "koltuk", "sandaly"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a place?",
+            "correct_answer": "school",
+            "incorrect_answers": ["apple", "pen", "hat"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'kedi'?",
+            "correct_answer": "cat",
+            "incorrect_answers": ["dog", "bird", "fish"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'shoes'?",
+            "correct_answer": "ayakkabılar",
+            "incorrect_answers": ["çorap", "eldiven", "şapka"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of weather?",
+            "correct_answer": "sunny",
+            "incorrect_answers": ["winter", "summer", "school"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'sandalye'?",
+            "correct_answer": "chair",
+            "incorrect_answers": ["table", "sofa", "bed"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'school'?",
+            "correct_answer": "okul",
+            "incorrect_answers": ["hastane", "kütüphane", "otogar"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of clothing?",
+            "correct_answer": "shirt",
+            "incorrect_answers": ["table", "car", "house"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'telefon'?",
+            "correct_answer": "phone",
+            "incorrect_answers": ["computer", "television", "radio"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'apple'?",
+            "correct_answer": "elma",
+            "incorrect_answers": ["armut", "muz", "portakal"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of fruit?",
+            "correct_answer": "banana",
+            "incorrect_answers": ["bread", "cheese", "butter"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'pencere'?",
+            "correct_answer": "window",
+            "incorrect_answers": ["door", "roof", "floor"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'city'?",
+            "correct_answer": "şehir",
+            "incorrect_answers": ["köy", "bölge", "mahalle"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a common room in a house?",
+            "correct_answer": "living room",
+            "incorrect_answers": ["garage", "garden", "attic"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'elma'?",
+            "correct_answer": "apple",
+            "incorrect_answers": ["orange", "grape", "banana"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'computer'?",
+            "correct_answer": "bilgisayar",
+            "incorrect_answers": ["telefon", "televizyon", "radyo"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of fruit?",
+            "correct_answer": "grape",
+            "incorrect_answers": ["carrot", "bread", "cheese"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'balkon'?",
+            "correct_answer": "balcony",
+            "incorrect_answers": ["garden", "yard", "roof"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'bedroom'?",
+            "correct_answer": "yatak odası",
+            "incorrect_answers": ["oturma odası", "banyo", "mutfak"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of animal?",
+            "correct_answer": "elephant",
+            "incorrect_answers": ["book", "chair", "table"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'kapı'?",
+            "correct_answer": "door",
+            "incorrect_answers": ["window", "roof", "floor"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'street'?",
+            "correct_answer": "sokak",
+            "incorrect_answers": ["bulvar", "meydan", "çarşı"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of beverage?",
+            "correct_answer": "juice",
+            "incorrect_answers": ["bread", "cheese", "meat"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'sandalye'?",
+            "correct_answer": "chair",
+            "incorrect_answers": ["table", "sofa", "bed"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'teacher'?",
+            "correct_answer": "öğretmen",
+            "incorrect_answers": ["öğrenci", "doktor", "hemşire"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of transportation?",
+            "correct_answer": "bus",
+            "incorrect_answers": ["book", "pen", "shirt"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'koca'?",
+            "correct_answer": "husband",
+            "incorrect_answers": ["wife", "brother", "friend"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'pool'?",
+            "correct_answer": "havuz",
+            "incorrect_answers": ["deniz", "göl", "bataklık"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of shoe?",
+            "correct_answer": "sneaker",
+            "incorrect_answers": ["sock", "hat", "belt"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'sofra'?",
+            "correct_answer": "table",
+            "incorrect_answers": ["chair", "plate", "cup"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'internet'?",
+            "correct_answer": "internet",
+            "incorrect_answers": ["bilgisayar", "telefon", "televizyon"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of vegetable?",
+            "correct_answer": "broccoli",
+            "incorrect_answers": ["apple", "banana", "grape"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'kilo'?",
+            "correct_answer": "kilogram",
+            "incorrect_answers": ["gram", "meter", "liter"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'meeting'?",
+            "correct_answer": "toplantı",
+            "incorrect_answers": ["randevu", "kurs", "eğitim"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of animal you can find on a farm?",
+            "correct_answer": "cow",
+            "incorrect_answers": ["dog", "cat", "bird"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'şirket'?",
+            "correct_answer": "company",
+            "incorrect_answers": ["office", "store", "factory"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'doctor'?",
+            "correct_answer": "doktor",
+            "incorrect_answers": ["hemşire", "eğitmen", "öğretmen"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of weather condition?",
+            "correct_answer": "rainy",
+            "incorrect_answers": ["summer", "morning", "cold"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'sürmek' (as in to drive)?",
+            "correct_answer": "to drive",
+            "incorrect_answers": ["to walk", "to fly", "to swim"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'bathroom'?",
+            "correct_answer": "banyo",
+            "incorrect_answers": ["mutfak", "yatak odası", "oturma odası"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of fruit?",
+            "correct_answer": "mango",
+            "incorrect_answers": ["carrot", "bread", "cheese"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'kat' (in a building)?",
+            "correct_answer": "floor",
+            "incorrect_answers": ["roof", "wall", "window"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'pen'?",
+            "correct_answer": "kalem",
+            "incorrect_answers": ["kitap", "defter", "silgi"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of vehicle?",
+            "correct_answer": "motorcycle",
+            "incorrect_answers": ["book", "table", "lamp"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'kapı'?",
+            "correct_answer": "door",
+            "incorrect_answers": ["window", "roof", "floor"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'train'?",
+            "correct_answer": "tren",
+            "incorrect_answers": ["otobüs", "araba", "uçak"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of fruit?",
+            "correct_answer": "pineapple",
+            "incorrect_answers": ["cheese", "bread", "egg"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'şirket'?",
+            "correct_answer": "company",
+            "incorrect_answers": ["store", "shop", "office"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'movie'?",
+            "correct_answer": "film",
+            "incorrect_answers": ["kitap", "dizi", "oyun"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of bird?",
+            "correct_answer": "parrot",
+            "incorrect_answers": ["cat", "dog", "fish"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'sandık'?",
+            "correct_answer": "box",
+            "incorrect_answers": ["bag", "drawer", "closet"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'bank'?",
+            "correct_answer": "banka",
+            "incorrect_answers": ["bakkal", "market", "mağaza"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of food?",
+            "correct_answer": "pasta",
+            "incorrect_answers": ["milk", "juice", "tea"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'bölge'?",
+            "correct_answer": "region",
+            "incorrect_answers": ["city", "country", "neighborhood"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'museum'?",
+            "correct_answer": "müze",
+            "incorrect_answers": ["galeri", "kütüphane", "okul"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of fruit?",
+            "correct_answer": "kiwi",
+            "incorrect_answers": ["tomato", "lettuce", "cucumber"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'çorap'?",
+            "correct_answer": "sock",
+            "incorrect_answers": ["shoe", "belt", "hat"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'breakfast'?",
+            "correct_answer": "kahvaltı",
+            "incorrect_answers": ["öğle yemeği", "akşam yemeği", "atıştırmalık"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of vegetable?",
+            "correct_answer": "carrot",
+            "incorrect_answers": ["banana", "grape", "apple"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'öğrenci'?",
+            "correct_answer": "student",
+            "incorrect_answers": ["teacher", "principal", "parent"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'zoo'?",
+            "correct_answer": "hayvanat bahçesi",
+            "incorrect_answers": ["park", "bahçe", "orman"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of drink?",
+            "correct_answer": "coffee",
+            "incorrect_answers": ["bread", "cheese", "fruit"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'yatak'?",
+            "correct_answer": "bed",
+            "incorrect_answers": ["sofa", "chair", "table"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'bread'?",
+            "correct_answer": "ekmek",
+            "incorrect_answers": ["yumurta", "süt", "peynir"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of clothing?",
+            "correct_answer": "sweater",
+            "incorrect_answers": ["scarf", "hat", "glove"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'televizyon'?",
+            "correct_answer": "television",
+            "incorrect_answers": ["radio", "computer", "phone"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'bridge'?",
+            "correct_answer": "köprü",
+            "incorrect_answers": ["yol", "sokak", "tünel"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of animal?",
+            "correct_answer": "horse",
+            "incorrect_answers": ["book", "pen", "desk"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'eldiven'?",
+            "correct_answer": "glove",
+            "incorrect_answers": ["hat", "scarf", "belt"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'store'?",
+            "correct_answer": "mağaza",
+            "incorrect_answers": ["bakkal", "market", "dükkan"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of room in a house?",
+            "correct_answer": "bathroom",
+            "incorrect_answers": ["garden", "garage", "attic"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'zeytin'?",
+            "correct_answer": "olive",
+            "incorrect_answers": ["grape", "apple", "banana"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'road'?",
+            "correct_answer": "yol",
+            "incorrect_answers": ["sokak", "cadde", "patika"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of vegetable?",
+            "correct_answer": "onion",
+            "incorrect_answers": ["orange", "apple", "grape"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'şemsiye'?",
+            "correct_answer": "umbrella",
+            "incorrect_answers": ["hat", "scarf", "glove"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'juice'?",
+            "correct_answer": "meyve suyu",
+            "incorrect_answers": ["süt", "çay", "kahve"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of building?",
+            "correct_answer": "apartment",
+            "incorrect_answers": ["street", "park", "bridge"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'bahçe'?",
+            "correct_answer": "garden",
+            "incorrect_answers": ["house", "road", "school"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'train station'?",
+            "correct_answer": "tren garı",
+            "incorrect_answers": ["otogar", "havalimanı", "metro istasyonu"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of kitchenware?",
+            "correct_answer": "pot",
+            "incorrect_answers": ["fork", "plate", "napkin"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'sandık'?",
+            "correct_answer": "box",
+            "incorrect_answers": ["bag", "drawer", "closet"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'pet'?",
+            "correct_answer": "evcil hayvan",
+            "incorrect_answers": ["hayvan", "kuş", "balık"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of fruit?",
+            "correct_answer": "peach",
+            "incorrect_answers": ["carrot", "bread", "egg"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'elma'?",
+            "correct_answer": "apple",
+            "incorrect_answers": ["banana", "grape", "orange"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'cousin'?",
+            "correct_answer": "kuzen",
+            "incorrect_answers": ["kardeş", "amca", "hala"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of food?",
+            "correct_answer": "cheese",
+            "incorrect_answers": ["juice", "coffee", "water"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'gözlük'?",
+            "correct_answer": "glasses",
+            "incorrect_answers": ["hat", "scarf", "belt"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'television'?",
+            "correct_answer": "televizyon",
+            "incorrect_answers": ["radyo", "bilgisayar", "telefon"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of fruit?",
+            "correct_answer": "blueberry",
+            "incorrect_answers": ["carrot", "potato", "cheese"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'banyo'?",
+            "correct_answer": "bathroom",
+            "incorrect_answers": ["kitchen", "living room", "bedroom"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'bank'?",
+            "correct_answer": "banka",
+            "incorrect_answers": ["market", "bakkal", "mağaza"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of animal?",
+            "correct_answer": "rabbit",
+            "incorrect_answers": ["chair", "table", "desk"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'gün'?",
+            "correct_answer": "day",
+            "incorrect_answers": ["week", "month", "year"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the Turkish translation for 'airplane'?",
+            "correct_answer": "uçak",
+            "incorrect_answers": ["araba", "otobüs", "tren"],
+            "level": "A2"
+        },
+        {
+            "question": "Which one is a type of food?",
+            "correct_answer": "sandwich",
+            "incorrect_answers": ["juice", "milk", "coffee"],
+            "level": "A2"
+        },
+        {
+            "question": "What is the English word for 'yüzme'?",
+            "correct_answer": "swimming",
+            "incorrect_answers": ["running", "jumping", "walking"],
+            "level": "A2"
+        },
+          {
+              "question": "What is the English word for 'bilgisayar'?",
+              "correct_answer": "computer",
+              "incorrect_answers": ["phone", "television", "camera"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'neighborhood'?",
+              "correct_answer": "mahalle",
+              "incorrect_answers": ["şehir", "bölge", "köy"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of book genre?",
+              "correct_answer": "mystery",
+              "incorrect_answers": ["biography", "dictionary", "manual"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'katkı'?",
+              "correct_answer": "contribution",
+              "incorrect_answers": ["support", "benefit", "gift"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'conference'?",
+              "correct_answer": "konferans",
+              "incorrect_answers": ["toplantı", "seminer", "atölye"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of software?",
+              "correct_answer": "application",
+              "incorrect_answers": ["hardware", "device", "system"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'karar'?",
+              "correct_answer": "decision",
+              "incorrect_answers": ["option", "choice", "recommendation"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'apology'?",
+              "correct_answer": "özür",
+              "incorrect_answers": ["teşekkür", "kutlama", "söz"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of job?",
+              "correct_answer": "accountant",
+              "incorrect_answers": ["artist", "musician", "athlete"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'sertifika'?",
+              "correct_answer": "certificate",
+              "incorrect_answers": ["diploma", "award", "degree"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'emergency'?",
+              "correct_answer": "acil durum",
+              "incorrect_answers": ["risk", "tehlike", "kriz"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of transportation?",
+              "correct_answer": "subway",
+              "incorrect_answers": ["bike", "bus", "train"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'üniversite'?",
+              "correct_answer": "university",
+              "incorrect_answers": ["school", "college", "academy"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'scientist'?",
+              "correct_answer": "bilim insanı",
+              "incorrect_answers": ["mühendis", "öğretmen", "doktor"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of fruit?",
+              "correct_answer": "grapefruit",
+              "incorrect_answers": ["cucumber", "lettuce", "pepper"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'bölge'?",
+              "correct_answer": "region",
+              "incorrect_answers": ["zone", "district", "area"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'strategy'?",
+              "correct_answer": "strateji",
+              "incorrect_answers": ["plan", "taktik", "yöntem"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of weather?",
+              "correct_answer": "cloudy",
+              "incorrect_answers": ["foggy", "windy", "rainy"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'iş görüşmesi'?",
+              "correct_answer": "interview",
+              "incorrect_answers": ["meeting", "discussion", "appointment"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'environment'?",
+              "correct_answer": "çevre",
+              "incorrect_answers": ["doğa", "iklim", "alan"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of furniture?",
+              "correct_answer": "bookshelf",
+              "incorrect_answers": ["carpet", "lamp", "curtain"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'tartışma'?",
+              "correct_answer": "debate",
+              "incorrect_answers": ["argument", "discussion", "conversation"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'celebration'?",
+              "correct_answer": "kutlama",
+              "incorrect_answers": ["parti", "etkinlik", "toplantı"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of sport?",
+              "correct_answer": "volleyball",
+              "incorrect_answers": ["cycling", "running", "swimming"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'projeksiyon'?",
+              "correct_answer": "projector",
+              "incorrect_answers": ["monitor", "screen", "printer"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'advice'?",
+              "correct_answer": "tavsiye",
+              "incorrect_answers": ["öneri", "yorum", "görüş"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of document?",
+              "correct_answer": "report",
+              "incorrect_answers": ["form", "letter", "invoice"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'yönetim'?",
+              "correct_answer": "management",
+              "incorrect_answers": ["leadership", "administration", "supervision"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'research'?",
+              "correct_answer": "araştırma",
+              "incorrect_answers": ["deneme", "inceleme", "gözlem"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of activity?",
+              "correct_answer": "exercise",
+              "incorrect_answers": ["work", "study", "relax"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'öneri'?",
+              "correct_answer": "suggestion",
+              "incorrect_answers": ["advice", "proposal", "comment"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'agreement'?",
+              "correct_answer": "anlaşma",
+              "incorrect_answers": ["sözleşme", "onay", "karar"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of device?",
+              "correct_answer": "camera",
+              "incorrect_answers": ["charger", "headphone", "speaker"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'bütçe'?",
+              "correct_answer": "budget",
+              "incorrect_answers": ["expense", "cost", "price"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'advertisement'?",
+              "correct_answer": "reklam",
+              "incorrect_answers": ["ilan", "tanıtım", "broşür"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of technology?",
+              "correct_answer": "smartphone",
+              "incorrect_answers": ["printer", "television", "radio"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'sözleşme'?",
+              "correct_answer": "contract",
+              "incorrect_answers": ["agreement", "deal", "arrangement"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'advertising'?",
+              "correct_answer": "reklamcılık",
+              "incorrect_answers": ["tanıtım", "pazarlama", "kampanya"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of tool?",
+              "correct_answer": "hammer",
+              "incorrect_answers": ["wrench", "screwdriver", "nail"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'katılmak'?",
+              "correct_answer": "participate",
+              "incorrect_answers": ["attend", "join", "contribute"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'charity'?",
+              "correct_answer": "hayır kurumu",
+              "incorrect_answers": ["yardım", "fon", "dernek"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of transportation?",
+              "correct_answer": "bicycle",
+              "incorrect_answers": ["motorbike", "bus", "train"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'finans'?",
+              "correct_answer": "finance",
+              "incorrect_answers": ["economics", "accounting", "investment"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'procedure'?",
+              "correct_answer": "prosedür",
+              "incorrect_answers": ["yöntem", "talimat", "aşama"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of furniture?",
+              "correct_answer": "sofa",
+              "incorrect_answers": ["table", "shelf", "lamp"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'şirket'?",
+              "correct_answer": "company",
+              "incorrect_answers": ["business", "firm", "corporation"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'achievement'?",
+              "correct_answer": "başarı",
+              "incorrect_answers": ["hedef", "ödül", "sonuç"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of event?",
+              "correct_answer": "festival",
+              "incorrect_answers": ["meeting", "conference", "workshop"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'temizlik'?",
+              "correct_answer": "cleaning",
+              "incorrect_answers": ["washing", "tidying", "scrubbing"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'invention'?",
+              "correct_answer": "buluş",
+              "incorrect_answers": ["keşif", "tasarım", "yaratım"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of communication method?",
+              "correct_answer": "email",
+              "incorrect_answers": ["letter", "phone call", "message"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'risk'?",
+              "correct_answer": "risk",
+              "incorrect_answers": ["danger", "threat", "hazard"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'journey'?",
+              "correct_answer": "seyahat",
+              "incorrect_answers": ["yolculuk", "gezme", "tur"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of measurement unit?",
+              "correct_answer": "liter",
+              "incorrect_answers": ["meter", "gram", "kilogram"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'deneme'?",
+              "correct_answer": "experiment",
+              "incorrect_answers": ["test", "trial", "examination"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'presentation'?",
+              "correct_answer": "sunum",
+              "incorrect_answers": ["gösterim", "açıklama", "tanıtım"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of computer program?",
+              "correct_answer": "software",
+              "incorrect_answers": ["hardware", "device", "system"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'ürün'?",
+              "correct_answer": "product",
+              "incorrect_answers": ["item", "goods", "merchandise"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'advertisement'?",
+              "correct_answer": "reklam",
+              "incorrect_answers": ["ilan", "kampanya", "broşür"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of financial statement?",
+              "correct_answer": "balance sheet",
+              "incorrect_answers": ["invoice", "receipt", "contract"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'rehber'?",
+              "correct_answer": "guide",
+              "incorrect_answers": ["manual", "handbook", "directions"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'development'?",
+              "correct_answer": "gelişme",
+              "incorrect_answers": ["ilerleme", "değişim", "büyüme"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of construction material?",
+              "correct_answer": "cement",
+              "incorrect_answers": ["wood", "steel", "brick"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'etkinlik'?",
+              "correct_answer": "activity",
+              "incorrect_answers": ["event", "program", "exercise"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'discovery'?",
+              "correct_answer": "keşif",
+              "incorrect_answers": ["buluş", "araştırma", "gelişme"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of online service?",
+              "correct_answer": "cloud storage",
+              "incorrect_answers": ["web browser", "email", "search engine"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'öneri'?",
+              "correct_answer": "suggestion",
+              "incorrect_answers": ["recommendation", "proposal", "advice"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'negotiation'?",
+              "correct_answer": "müzakere",
+              "incorrect_answers": ["görüşme", "anlaşma", "tartışma"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of financial transaction?",
+              "correct_answer": "investment",
+              "incorrect_answers": ["purchase", "sale", "deposit"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'iş gücü'?",
+              "correct_answer": "workforce",
+              "incorrect_answers": ["staff", "employees", "manpower"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'budget'?",
+              "correct_answer": "bütçe",
+              "incorrect_answers": ["masraf", "harcama", "gelir"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of electronic device?",
+              "correct_answer": "tablet",
+              "incorrect_answers": ["printer", "scanner", "camera"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'hizmet'?",
+              "correct_answer": "service",
+              "incorrect_answers": ["product", "support", "assistance"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'conference'?",
+              "correct_answer": "konferans",
+              "incorrect_answers": ["seminer", "toplantı", "atölye"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of document?",
+              "correct_answer": "contract",
+              "incorrect_answers": ["receipt", "invoice", "letter"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'iş toplantısı'?",
+              "correct_answer": "meeting",
+              "incorrect_answers": ["conference", "seminar", "workshop"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'solution'?",
+              "correct_answer": "çözüm",
+              "incorrect_answers": ["sorun", "öneri", "plan"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of profession?",
+              "correct_answer": "engineer",
+              "incorrect_answers": ["artist", "athlete", "musician"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'belge'?",
+              "correct_answer": "document",
+              "incorrect_answers": ["file", "record", "certificate"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'deadline'?",
+              "correct_answer": "son tarih",
+              "incorrect_answers": ["görev", "zaman", "randevu"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of service?",
+              "correct_answer": "customer support",
+              "incorrect_answers": ["sales", "marketing", "advertising"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'sponsor'?",
+              "correct_answer": "sponsor",
+              "incorrect_answers": ["supporter", "donor", "partner"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'feedback'?",
+              "correct_answer": "geri bildirim",
+              "incorrect_answers": ["yorum", "öneri", "değerlendirme"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of marketing strategy?",
+              "correct_answer": "advertising",
+              "incorrect_answers": ["sales", "pricing", "promotion"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'geliştirmek'?",
+              "correct_answer": "develop",
+              "incorrect_answers": ["create", "design", "improve"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'investment'?",
+              "correct_answer": "yatırım",
+              "incorrect_answers": ["harcama", "borç", "gelir"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of financial planning?",
+              "correct_answer": "budgeting",
+              "incorrect_answers": ["saving", "spending", "investing"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'aralık'?",
+              "correct_answer": "range",
+              "incorrect_answers": ["limit", "distance", "scope"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'fund'?",
+              "correct_answer": "fon",
+              "incorrect_answers": ["bütçe", "yardım", "yatırım"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of business structure?",
+              "correct_answer": "corporation",
+              "incorrect_answers": ["partnership", "sole proprietorship", "non-profit"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'büyütmek'?",
+              "correct_answer": "expand",
+              "incorrect_answers": ["increase", "extend", "enlarge"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'resource'?",
+              "correct_answer": "kaynak",
+              "incorrect_answers": ["araç", "malzeme", "yer"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of customer behavior?",
+              "correct_answer": "loyalty",
+              "incorrect_answers": ["preference", "spending", "attitude"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'işletme'?",
+              "correct_answer": "business",
+              "incorrect_answers": ["company", "enterprise", "firm"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'campaign'?",
+              "correct_answer": "kampanya",
+              "incorrect_answers": ["etkinlik", "proje", "plan"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of investment?",
+              "correct_answer": "stock",
+              "incorrect_answers": ["bond", "real estate", "mutual fund"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'tarife'?",
+              "correct_answer": "tariff",
+              "incorrect_answers": ["rate", "fee", "charge"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'achievement'?",
+              "correct_answer": "başarı",
+              "incorrect_answers": ["sonuç", "hedef", "ödül"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of marketing channel?",
+              "correct_answer": "social media",
+              "incorrect_answers": ["direct mail", "broadcasting", "email marketing"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'toptan'?",
+              "correct_answer": "wholesale",
+              "incorrect_answers": ["retail", "bulk", "discount"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'supply'?",
+              "correct_answer": "tedarik",
+              "incorrect_answers": ["malzeme", "ürün", "gereksinim"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of service industry?",
+              "correct_answer": "hospitality",
+              "incorrect_answers": ["healthcare", "finance", "real estate"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'geliştirmek'?",
+              "correct_answer": "improve",
+              "incorrect_answers": ["enhance", "develop", "upgrade"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'competitor'?",
+              "correct_answer": "rakip",
+              "incorrect_answers": ["iş ortağı", "müşteri", "temsilci"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of economic activity?",
+              "correct_answer": "manufacturing",
+              "incorrect_answers": ["service", "retail", "consulting"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'yakınlık'?",
+              "correct_answer": "proximity",
+              "incorrect_answers": ["distance", "closeness", "nearness"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'export'?",
+              "correct_answer": "ihracat",
+              "incorrect_answers": ["ithalat", "satış", "dağıtım"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of company structure?",
+              "correct_answer": "partnership",
+              "incorrect_answers": ["sole proprietorship", "corporation", "LLC"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'performans'?",
+              "correct_answer": "performance",
+              "incorrect_answers": ["efficiency", "effectiveness", "outcome"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'satisfaction'?",
+              "correct_answer": "memnuniyet",
+              "incorrect_answers": ["rahatlık", "zevk", "keyif"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of financial report?",
+              "correct_answer": "income statement",
+              "incorrect_answers": ["balance sheet", "cash flow statement", "audit report"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'strateji'?",
+              "correct_answer": "strategy",
+              "incorrect_answers": ["plan", "tactic", "approach"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'revenue'?",
+              "correct_answer": "gelir",
+              "incorrect_answers": ["kar", "masraf", "bütçe"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of software application?",
+              "correct_answer": "spreadsheet",
+              "incorrect_answers": ["database", "web browser", "email client"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'ihtiyaç'?",
+              "correct_answer": "need",
+              "incorrect_answers": ["requirement", "demand", "necessity"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'innovation'?",
+              "correct_answer": "yenilik",
+              "incorrect_answers": ["buluş", "değişim", "gelişme"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of product?",
+              "correct_answer": "software",
+              "incorrect_answers": ["hardware", "service", "support"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the English word for 'yarışma'?",
+              "correct_answer": "competition",
+              "incorrect_answers": ["contest", "challenge", "tournament"],
+              "level": "B1"
+          },
+          {
+              "question": "What is the Turkish translation for 'marketing'?",
+              "correct_answer": "pazarlama",
+              "incorrect_answers": ["satış", "reklam", "tanıtım"],
+              "level": "B1"
+          },
+          {
+              "question": "Which one is a type of project management tool?",
+              "correct_answer": "Gantt chart",
+              "incorrect_answers": ["mind map", "flowchart", "network diagram"],
+              "level": "B1"
+          },
+            {
+                "question": "What is the English word for 'araştırma'?",
+                "correct_answer": "research",
+                "incorrect_answers": ["study", "investigation", "analysis"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'compromise'?",
+                "correct_answer": "uzlaşma",
+                "incorrect_answers": ["anlaşmazlık", "çözüm", "tartışma"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of economic system?",
+                "correct_answer": "capitalism",
+                "incorrect_answers": ["socialism", "democracy", "feudalism"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'sorumluluk'?",
+                "correct_answer": "responsibility",
+                "incorrect_answers": ["duty", "obligation", "burden"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'strategy'?",
+                "correct_answer": "strateji",
+                "incorrect_answers": ["plan", "taktik", "yöntem"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of literary genre?",
+                "correct_answer": "novel",
+                "incorrect_answers": ["poetry", "drama", "essay"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'katkı'?",
+                "correct_answer": "contribution",
+                "incorrect_answers": ["input", "donation", "addition"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'tendency'?",
+                "correct_answer": "eğilim",
+                "incorrect_answers": ["heves", "yönelim", "arzu"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of government?",
+                "correct_answer": "monarchy",
+                "incorrect_answers": ["democracy", "republic", "dictatorship"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'etki'?",
+                "correct_answer": "impact",
+                "incorrect_answers": ["effect", "influence", "consequence"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'ethics'?",
+                "correct_answer": "etik",
+                "incorrect_answers": ["ahlak", "değer", "ilke"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of economic indicator?",
+                "correct_answer": "inflation rate",
+                "incorrect_answers": ["interest rate", "unemployment rate", "GDP"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'serbest'?",
+                "correct_answer": "free",
+                "incorrect_answers": ["open", "loose", "available"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'negotiation'?",
+                "correct_answer": "müzakere",
+                "incorrect_answers": ["görüşme", "anlaşma", "tartışma"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of statistical measure?",
+                "correct_answer": "mean",
+                "incorrect_answers": ["median", "mode", "range"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'rekabet'?",
+                "correct_answer": "competition",
+                "incorrect_answers": ["rivalry", "contest", "challenge"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'innovation'?",
+                "correct_answer": "yenilik",
+                "incorrect_answers": ["gelişme", "buluş", "değişim"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of scientific method?",
+                "correct_answer": "hypothesis",
+                "incorrect_answers": ["experiment", "theory", "analysis"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'büyüme'?",
+                "correct_answer": "growth",
+                "incorrect_answers": ["expansion", "development", "increase"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'consensus'?",
+                "correct_answer": "görüş birliği",
+                "incorrect_answers": ["anlaşma", "onay", "karar"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of management strategy?",
+                "correct_answer": "delegation",
+                "incorrect_answers": ["supervision", "planning", "control"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'anlayış'?",
+                "correct_answer": "understanding",
+                "incorrect_answers": ["comprehension", "awareness", "insight"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'procedure'?",
+                "correct_answer": "prosedür",
+                "incorrect_answers": ["işlem", "yöntem", "talimat"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of renewable energy?",
+                "correct_answer": "solar power",
+                "incorrect_answers": ["nuclear power", "natural gas", "coal"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'kapsam'?",
+                "correct_answer": "scope",
+                "incorrect_answers": ["extent", "range", "coverage"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'achievement'?",
+                "correct_answer": "başarı",
+                "incorrect_answers": ["hedef", "ödül", "sonuç"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of corporate structure?",
+                "correct_answer": "limited company",
+                "incorrect_answers": ["partnership", "sole proprietorship", "non-profit"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'etkileşim'?",
+                "correct_answer": "interaction",
+                "incorrect_answers": ["communication", "relationship", "connection"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'regulation'?",
+                "correct_answer": "yönetmelik",
+                "incorrect_answers": ["kanun", "talimat", "politik"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of data analysis?",
+                "correct_answer": "statistical analysis",
+                "incorrect_answers": ["qualitative analysis", "descriptive analysis", "predictive analysis"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'önemli'?",
+                "correct_answer": "significant",
+                "incorrect_answers": ["important", "crucial", "vital"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'diversity'?",
+                "correct_answer": "çeşitlilik",
+                "incorrect_answers": ["farklılık", "variety", "değişim"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of market research method?",
+                "correct_answer": "survey",
+                "incorrect_answers": ["focus group", "interview", "case study"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'karar'?",
+                "correct_answer": "decision",
+                "incorrect_answers": ["choice", "resolution", "verdict"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'market share'?",
+                "correct_answer": "pazar payı",
+                "incorrect_answers": ["pazar büyüklüğü", "pazar konumu", "pazar değeri"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of research method?",
+                "correct_answer": "case study",
+                "incorrect_answers": ["survey", "experiment", "observation"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'başarı'?",
+                "correct_answer": "success",
+                "incorrect_answers": ["achievement", "victory", "triumph"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'beneficiary'?",
+                "correct_answer": "yararlanıcı",
+                "incorrect_answers": ["faydalanıcı", "alıcı", "katılımcı"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of financial analysis?",
+                "correct_answer": "ratio analysis",
+                "incorrect_answers": ["trend analysis", "performance analysis", "variance analysis"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'temsilci'?",
+                "correct_answer": "representative",
+                "incorrect_answers": ["delegate", "agent", "spokesperson"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'priority'?",
+                "correct_answer": "öncelik",
+                "incorrect_answers": ["önem", "açıklık", "karar"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of project management technique?",
+                "correct_answer": "critical path method",
+                "incorrect_answers": ["Gantt chart", "PERT chart", "Work Breakdown Structure"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'etkili'?",
+                "correct_answer": "effective",
+                "incorrect_answers": ["efficient", "powerful", "impactful"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'assessment'?",
+                "correct_answer": "değerlendirme",
+                "incorrect_answers": ["ölçüm", "analiz", "test"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of marketing strategy?",
+                "correct_answer": "target marketing",
+                "incorrect_answers": ["mass marketing", "relationship marketing", "product marketing"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'değişken'?",
+                "correct_answer": "variable",
+                "incorrect_answers": ["constant", "factor", "parameter"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'implementation'?",
+                "correct_answer": "uygulama",
+                "incorrect_answers": ["yürütme", "planlama", "geliştirme"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of business model?",
+                "correct_answer": "subscription model",
+                "incorrect_answers": ["freemium model", "licensing model", "pay-per-use model"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'paylaşmak'?",
+                "correct_answer": "share",
+                "incorrect_answers": ["distribute", "divide", "allocate"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'conflict'?",
+                "correct_answer": "çatışma",
+                "incorrect_answers": ["anlaşmazlık", "tartışma", "sorun"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of leadership style?",
+                "correct_answer": "transformational",
+                "incorrect_answers": ["autocratic", "transactional", "charismatic"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'kapsamlı'?",
+                "correct_answer": "comprehensive",
+                "incorrect_answers": ["detailed", "extensive", "thorough"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'benchmark'?",
+                "correct_answer": "kıyaslama",
+                "incorrect_answers": ["standart", "ölçüt", "referans"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of economic theory?",
+                "correct_answer": "Keynesian economics",
+                "incorrect_answers": ["classical economics", "monetarism", "supply-side economics"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'strateji'?",
+                "correct_answer": "strategy",
+                "incorrect_answers": ["plan", "approach", "method"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'advisory'?",
+                "correct_answer": "danışmanlık",
+                "incorrect_answers": ["öneri", "yardım", "rehberlik"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of project risk?",
+                "correct_answer": "technical risk",
+                "incorrect_answers": ["financial risk", "operational risk", "schedule risk"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'performans'?",
+                "correct_answer": "performance",
+                "incorrect_answers": ["efficiency", "outcome", "effectiveness"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'revenue'?",
+                "correct_answer": "gelir",
+                "incorrect_answers": ["kar", "masraf", "bütçe"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of organizational structure?",
+                "correct_answer": "matrix structure",
+                "incorrect_answers": ["functional structure", "divisional structure", "flat structure"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'katkı'?",
+                "correct_answer": "contribution",
+                "incorrect_answers": ["donation", "addition", "input"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'forecast'?",
+                "correct_answer": "öngörü",
+                "incorrect_answers": ["tahmin", "rapor", "değerlendirme"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of financial statement?",
+                "correct_answer": "cash flow statement",
+                "incorrect_answers": ["income statement", "balance sheet", "equity statement"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'uygulama'?",
+                "correct_answer": "application",
+                "incorrect_answers": ["program", "software", "platform"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'investment'?",
+                "correct_answer": "yatırım",
+                "incorrect_answers": ["harcama", "borç", "gelir"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of marketing strategy?",
+                "correct_answer": "content marketing",
+                "incorrect_answers": ["direct marketing", "affiliate marketing", "event marketing"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'geliştirmek'?",
+                "correct_answer": "develop",
+                "incorrect_answers": ["create", "improve", "enhance"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'partnership'?",
+                "correct_answer": "ortaklık",
+                "incorrect_answers": ["işbirliği", "birliktelik", "sözleşme"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of consumer behavior?",
+                "correct_answer": "brand loyalty",
+                "incorrect_answers": ["purchase intention", "price sensitivity", "shopping habits"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'değerlendirme'?",
+                "correct_answer": "evaluation",
+                "incorrect_answers": ["assessment", "review", "analysis"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'benchmarking'?",
+                "correct_answer": "kıyaslama",
+                "incorrect_answers": ["ölçümleme", "değerlendirme", "analiz"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of business strategy?",
+                "correct_answer": "differentiation",
+                "incorrect_answers": ["cost leadership", "focus strategy", "growth strategy"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'görev'?",
+                "correct_answer": "task",
+                "incorrect_answers": ["duty", "assignment", "job"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'regulation'?",
+                "correct_answer": "yönetmelik",
+                "incorrect_answers": ["kanun", "kurallar", "talimat"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of market segmentation?",
+                "correct_answer": "psychographic segmentation",
+                "incorrect_answers": ["demographic segmentation", "geographic segmentation", "behavioral segmentation"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'stratejik'?",
+                "correct_answer": "strategic",
+                "incorrect_answers": ["tactical", "operational", "administrative"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'sustainability'?",
+                "correct_answer": "sürdürülebilirlik",
+                "incorrect_answers": ["devamlılık", "etkinlik", "kararlılık"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of business analysis?",
+                "correct_answer": "SWOT analysis",
+                "incorrect_answers": ["PEST analysis", "Porter's Five Forces", "Value Chain analysis"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'verimlilik'?",
+                "correct_answer": "efficiency",
+                "incorrect_answers": ["productivity", "performance", "effectiveness"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'brand'?",
+                "correct_answer": "marka",
+                "incorrect_answers": ["isim", "etiket", "logo"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of organizational behavior?",
+                "correct_answer": "motivation",
+                "incorrect_answers": ["leadership", "teamwork", "communication"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'yaklaşım'?",
+                "correct_answer": "approach",
+                "incorrect_answers": ["method", "strategy", "technique"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'benchmark'?",
+                "correct_answer": "kıyaslama",
+                "incorrect_answers": ["standart", "ölçüt", "referans"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of strategic planning?",
+                "correct_answer": "long-term planning",
+                "incorrect_answers": ["short-term planning", "tactical planning", "operational planning"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'stratejik'?",
+                "correct_answer": "strategic",
+                "incorrect_answers": ["tactical", "operational", "administrative"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'consequence'?",
+                "correct_answer": "sonuç",
+                "incorrect_answers": ["etki", "netice", "sonuç"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of business decision?",
+                "correct_answer": "strategic decision",
+                "incorrect_answers": ["operational decision", "tactical decision", "financial decision"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'risk'?",
+                "correct_answer": "risk",
+                "incorrect_answers": ["danger", "threat", "hazard"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'budget'?",
+                "correct_answer": "bütçe",
+                "incorrect_answers": ["harcama", "gelir", "masraf"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of leadership style?",
+                "correct_answer": "transformational leadership",
+                "incorrect_answers": ["transactional leadership", "charismatic leadership", "autocratic leadership"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'eğilim'?",
+                "correct_answer": "trend",
+                "incorrect_answers": ["pattern", "preference", "tendency"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'infrastructure'?",
+                "correct_answer": "altyapı",
+                "incorrect_answers": ["üst yapı", "tesis", "bina"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of market structure?",
+                "correct_answer": "oligopoly",
+                "incorrect_answers": ["monopoly", "perfect competition", "monopolistic competition"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'yönetim'?",
+                "correct_answer": "management",
+                "incorrect_answers": ["administration", "supervision", "direction"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'investment'?",
+                "correct_answer": "yatırım",
+                "incorrect_answers": ["harcama", "borç", "gelir"],
+                "level": "B2"
+            },
+            {
+                "question": "Which one is a type of financial statement?",
+                "correct_answer": "balance sheet",
+                "incorrect_answers": ["income statement", "cash flow statement", "equity statement"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the English word for 'yönetim'?",
+                "correct_answer": "management",
+                "incorrect_answers": ["administration", "leadership", "direction"],
+                "level": "B2"
+            },
+            {
+                "question": "What is the Turkish translation for 'innovation'?",
+                "correct_answer": "yenilik",
+                "incorrect_answers": ["gelişme", "buluş", "değişim"],
+                "level": "B2"
+            }
+    ],
+    
+      "matching_months": [
+    {
+      "english": "January",
+      "turkish": "Ocak"
+    },
+    {
+      "english": "February",
+      "turkish": "Şubat"
+    },
+    {
+      "english": "March",
+      "turkish": "Mart"
+    },
+    {
+      "english": "April",
+      "turkish": "Nisan"
+    },
+    {
+      "english": "May",
+      "turkish": "Mayıs"
+    },
+    {
+      "english": "June",
+      "turkish": "Haziran"
+    },
+    {
+      "english": "July",
+      "turkish": "Temmuz"
+    },
+    {
+      "english": "August",
+      "turkish": "Ağustos"
+    },
+    {
+      "english": "September",
+      "turkish": "Eylül"
+    },
+    {
+      "english": "October",
+      "turkish": "Ekim"
+    },
+    {
+      "english": "November",
+      "turkish": "Kasım"
+    },
+    {
+      "english": "December",
+      "turkish": "Aralık"
+    }
+  ],
+
+      "matching_colors": [
+    {"english": "Red", "turkish": "Kırmızı"},
+    {"english": "Blue", "turkish": "Mavi"},
+    {"english": "Green", "turkish": "Yeşil"},
+    {"english": "Yellow", "turkish": "Sarı"},
+    {"english": "Black", "turkish": "Siyah"},
+    {"english": "White", "turkish": "Beyaz"},
+    {"english": "Purple", "turkish": "Mor"},
+    {"english": "Orange", "turkish": "Turuncu"},
+    {"english": "Pink", "turkish": "Pembe"},
+    {"english": "Brown", "turkish": "Kahverengi"},
+    {"english": "Gray", "turkish": "Gri"},
+    {"english": "Cyan", "turkish": "Camgöbeği"},
+    {"english": "Magenta", "turkish": "Eflatun"},
+    {"english": "Violet", "turkish": "Menekşe"},
+    {"english": "Turquoise", "turkish": "Turkuaz"},
+    {"english": "Beige", "turkish": "Bej"},
+    {"english": "Gold", "turkish": "Altın"},
+    {"english": "Silver", "turkish": "Gümüş"}
+  ],
+
+      "matching_animals": [
+    {"english": "Dog", "turkish": "Köpek"},
+    {"english": "Cat", "turkish": "Kedi"},
+    {"english": "Horse", "turkish": "At"},
+    {"english": "Elephant", "turkish": "Fil"},
+    {"english": "Lion", "turkish": "Aslan"},
+    {"english": "Tiger", "turkish": "Kaplan"},
+    {"english": "Bear", "turkish": "Ayı"},
+    {"english": "Giraffe", "turkish": "Zürafa"},
+    {"english": "Monkey", "turkish": "Maymun"},
+    {"english": "Penguin", "turkish": "Penguen"},
+    {"english": "Kangaroo", "turkish": "Kanguru"},
+    {"english": "Zebra", "turkish": "Zebra"},
+    {"english": "Rabbit", "turkish": "Tavşan"},
+    {"english": "Fox", "turkish": "Kurt"},
+    {"english": "Deer", "turkish": "Geyik"},
+    {"english": "Wolf", "turkish": "Kurt"},
+    {"english": "Squirrel", "turkish": "Sincap"},
+    {"english": "Hedgehog", "turkish": "Kirpi"},
+    {"english": "Owl", "turkish": "Baykuş"},
+    {"english": "Eagle", "turkish": "Kartal"},
+    {"english": "Dolphin", "turkish": "Yunus"},
+    {"english": "Whale", "turkish": "Balina"},
+    {"english": "Shark", "turkish": "Köpekbalığı"},
+    {"english": "Octopus", "turkish": "Ahtapot"},
+    {"english": "Jellyfish", "turkish": "Ahtapot"},
+    {"english": "Crab", "turkish": "Yengeç"},
+    {"english": "Seahorse", "turkish": "Denizatı"},
+    {"english": "Flamingo", "turkish": "Flamingo"},
+    {"english": "Parrot", "turkish": "Papağan"},
+    {"english": "Peacock", "turkish": "Tavus Kuşu"},
+    {"english": "Panda", "turkish": "Panda"},
+    {"english": "Sloth", "turkish": "Tembel Hayvan"},
+    {"english": "Koala", "turkish": "Koala"},
+    {"english": "Gorilla", "turkish": "Goril"},
+    {"english": "Cheetah", "turkish": "Çita"},
+    {"english": "Hyena", "turkish": "Sırtlan"},
+    {"english": "Bat", "turkish": "Yarasa"},
+    {"english": "Mole", "turkish": "Karaçöl"},
+    {"english": "Rat", "turkish": "Sıçan"},
+    {"english": "Hamster", "turkish": "Hamster"}
+  ]   
+  }
+
+
+  
